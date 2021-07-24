@@ -1,4 +1,4 @@
-### Hi 👋, my name is Surya Dana
+<h1 align="center">Hi 👋, my name is Surya Dana</h1>
 
 ## I'm a full stack web-developer
 - 🌱 I’m currently learning React.
