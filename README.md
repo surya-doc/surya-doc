@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Surya Dana</h1>
+<h1 align="center">Hi 👋, my name is Surya Dana <a href="https://suryadana.codes/"> website</a></h1>
 
 ## I'm a full stack web-developer
 - 🌱 I’m currently learning React.
