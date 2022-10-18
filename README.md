@@ -18,7 +18,9 @@
 
 
 <br>
+<br>
 <h1 align="center">Connect with me:</h1>
+<br>
 <p align="center">
 <a href="https://twitter.com/dana_surya22" target="blank">
 <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="suryada20408831" />
@@ -37,7 +39,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" >
@@ -95,6 +97,10 @@
 </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-doc&show_icons=true&locale=en&layout=compact" alt="surya-doc" width="60%" />
+<br>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-doc&show_icons=true&locale=en&layout=compact" alt="surya-doc" width="50%" />
+</div>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-doc&border=FC8505&fire=FC4105" alt="surya-doc" width="49%" /> <img src="https://github-readme-stats.vercel.app/api?username=surya-doc&show_icons=true&locale=en&icon_color=03C0FC&title_color=03C0FC&border_color=03C0FC" alt="surya-doc" width="49%" />
