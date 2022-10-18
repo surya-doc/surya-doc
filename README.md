@@ -16,8 +16,10 @@
 
 - ⚡ Fun fact **I like tea more than coffee**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<br>
+<h1 align="center">Connect with me:</h1>
+<p align="center">
 <a href="https://twitter.com/dana_surya22" target="blank">
 <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="suryada20408831" />
 </a>
